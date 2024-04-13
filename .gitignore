@@ -5,6 +5,7 @@
 [Cc]odeCoverage/**
 Assets/Resources*
 Assets/TextMesh Pro*
+Assets/ezy-slice*
 # Visual Studio cache directory
 .vs/
 
