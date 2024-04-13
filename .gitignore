@@ -1,4 +1,4 @@
 config
-Library
-Packages
+Library/
+Packages/
 Assets/ezy-slice/
